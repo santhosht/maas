@@ -1,5 +1,5 @@
-name: maas
-adopt-info: maas
+name: drut-maas
+adopt-info: drut-maas
 summary: Metal as a Service
 description: |
   Total automation of your physical servers for amazing data center operational efficiency.
